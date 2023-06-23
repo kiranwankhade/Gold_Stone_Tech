@@ -1,0 +1,63 @@
+#editForm{
+    padding-left: 15px;
+    line-height: 15px;
+}
+
+#editForm>div{
+    display: flex;
+    flex-direction: row;
+    justify-content:first baseline;
+    align-items: center;
+    gap: 20px;
+    padding-right: 15px;
+}
+
+#divSave{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    padding-right: 15px;
+}
+
+#name{
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+}
+
+#email{
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 5px;
+}
+
+
+#gender{
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    margin-left:-8px;
+}
+
+#status{
+    border: 1px solid grey;
+    padding: 5px;
+    border-radius: 10px;
+    width: 80%;
+    margin-left: 5px;
+}
+
+#editBtn{
+    padding: 12px;
+    background-color:#3868e3;
+    border-radius: 5px;
+    width: 80px;
+    font-size: 20px;
+    font-weight: 500;
+}
