@@ -48,7 +48,7 @@ https://goldstone-beige.vercel.app/
 
 ## Features
 <ul>![edit](https://github.com/kiranwankhade/Gold_Stone_Tech/assets/49937312/f02c1975-c58a-47aa-9491-d124b3012ef1)
-![Uploading FrontEnd.png…]()
+![FrontEnd](https://github.com/kiranwankhade/Gold_Stone_Tech/assets/49937312/8fe75816-cc99-4a46-9e28-c54881af9916)
 
   <li>Table</li>
   <li>Update</li>
@@ -58,9 +58,11 @@ https://goldstone-beige.vercel.app/
 
 ## Front End Page
 
-![Uploading FrontEnd.png…]()
+![FrontEnd](https://github.com/kiranwankhade/Gold_Stone_Tech/assets/49937312/3e56fb40-de8f-4b31-bc01-02cfd5f364b0)
 
-![Uploading edit.png…]()
+
+![edit](https://github.com/kiranwankhade/Gold_Stone_Tech/assets/49937312/90929777-d7cd-480b-899a-b31e47b83ea7)
+
 
 ## BackEnd Outputs
 ![usersDetails](https://github.com/kiranwankhade/Gold_Stone_Tech/assets/49937312/0be97a31-c65f-4ff3-a30b-193053b9a55d)
